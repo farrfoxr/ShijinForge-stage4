@@ -1,0 +1,29 @@
+[theme]
+# Primary accent color for interactive elements
+primaryColor = "#4e7056"
+
+# Background color for the main content area
+backgroundColor = "#ffffff"
+
+# Background color used for the sidebar and most interactive widgets
+secondaryBackgroundColor = "#e8f4ea"
+
+# Color used for almost all text
+textColor = "#333333"
+
+# Font family for all text in the app, except code blocks
+font = "Inter, sans-serif"
+
+# Base font size for UI elements
+base = "16px"
+
+# Force light mode
+base_theme = "light"
+
+[server]
+# Disable the ability to switch themes
+enableThemeSwitch = false
+
+[browser]
+# Force light mode in browser
+gatherUsageStats = false
