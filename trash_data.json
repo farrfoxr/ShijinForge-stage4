@@ -1,0 +1,811 @@
+{
+    "Organic": 33,
+    "Other": 31,
+    "Plastic": 36,
+    "history": [
+      {
+        "timestamp": "2025-05-03 00:05:00",
+        "Organic": 0,
+        "Other": 1,
+        "Plastic": 0,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 00:15:00",
+        "Organic": 1,
+        "Other": 1,
+        "Plastic": 0,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 00:25:00",
+        "Organic": 1,
+        "Other": 1,
+        "Plastic": 1,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 00:35:00",
+        "Organic": 1,
+        "Other": 1,
+        "Plastic": 2,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 00:45:00",
+        "Organic": 1,
+        "Other": 1,
+        "Plastic": 3,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 00:55:00",
+        "Organic": 1,
+        "Other": 1,
+        "Plastic": 4,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 01:05:00",
+        "Organic": 2,
+        "Other": 1,
+        "Plastic": 4,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 01:15:00",
+        "Organic": 2,
+        "Other": 1,
+        "Plastic": 5,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 01:25:00",
+        "Organic": 2,
+        "Other": 2,
+        "Plastic": 5,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 01:35:00",
+        "Organic": 2,
+        "Other": 3,
+        "Plastic": 5,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 01:45:00",
+        "Organic": 2,
+        "Other": 3,
+        "Plastic": 6,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 01:55:00",
+        "Organic": 2,
+        "Other": 4,
+        "Plastic": 6,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 02:05:00",
+        "Organic": 3,
+        "Other": 4,
+        "Plastic": 6,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 02:15:00",
+        "Organic": 3,
+        "Other": 5,
+        "Plastic": 6,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 02:25:00",
+        "Organic": 3,
+        "Other": 5,
+        "Plastic": 7,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 02:35:00",
+        "Organic": 3,
+        "Other": 5,
+        "Plastic": 8,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 02:45:00",
+        "Organic": 3,
+        "Other": 5,
+        "Plastic": 9,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 02:55:00",
+        "Organic": 3,
+        "Other": 6,
+        "Plastic": 9,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 03:05:00",
+        "Organic": 3,
+        "Other": 6,
+        "Plastic": 10,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 03:15:00",
+        "Organic": 3,
+        "Other": 7,
+        "Plastic": 10,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 03:25:00",
+        "Organic": 3,
+        "Other": 7,
+        "Plastic": 11,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 03:35:00",
+        "Organic": 3,
+        "Other": 7,
+        "Plastic": 12,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 03:45:00",
+        "Organic": 3,
+        "Other": 7,
+        "Plastic": 13,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 03:55:00",
+        "Organic": 3,
+        "Other": 8,
+        "Plastic": 13,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 04:05:00",
+        "Organic": 3,
+        "Other": 8,
+        "Plastic": 14,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 04:15:00",
+        "Organic": 3,
+        "Other": 8,
+        "Plastic": 15,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 04:25:00",
+        "Organic": 3,
+        "Other": 8,
+        "Plastic": 16,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 04:35:00",
+        "Organic": 4,
+        "Other": 8,
+        "Plastic": 16,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 04:45:00",
+        "Organic": 4,
+        "Other": 9,
+        "Plastic": 16,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 04:55:00",
+        "Organic": 5,
+        "Other": 9,
+        "Plastic": 16,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 05:05:00",
+        "Organic": 6,
+        "Other": 9,
+        "Plastic": 16,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 05:15:00",
+        "Organic": 6,
+        "Other": 9,
+        "Plastic": 17,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 05:25:00",
+        "Organic": 6,
+        "Other": 9,
+        "Plastic": 18,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 05:35:00",
+        "Organic": 6,
+        "Other": 10,
+        "Plastic": 18,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 05:45:00",
+        "Organic": 6,
+        "Other": 10,
+        "Plastic": 19,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 05:55:00",
+        "Organic": 6,
+        "Other": 10,
+        "Plastic": 20,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 06:05:00",
+        "Organic": 6,
+        "Other": 10,
+        "Plastic": 21,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 06:15:00",
+        "Organic": 6,
+        "Other": 11,
+        "Plastic": 21,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 06:25:00",
+        "Organic": 6,
+        "Other": 11,
+        "Plastic": 22,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 06:35:00",
+        "Organic": 6,
+        "Other": 11,
+        "Plastic": 23,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 06:45:00",
+        "Organic": 7,
+        "Other": 11,
+        "Plastic": 23,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 06:55:00",
+        "Organic": 7,
+        "Other": 12,
+        "Plastic": 23,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 07:05:00",
+        "Organic": 8,
+        "Other": 12,
+        "Plastic": 23,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 07:15:00",
+        "Organic": 8,
+        "Other": 12,
+        "Plastic": 24,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 07:25:00",
+        "Organic": 8,
+        "Other": 13,
+        "Plastic": 24,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 07:35:00",
+        "Organic": 9,
+        "Other": 13,
+        "Plastic": 24,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 07:45:00",
+        "Organic": 10,
+        "Other": 13,
+        "Plastic": 24,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 07:55:00",
+        "Organic": 11,
+        "Other": 13,
+        "Plastic": 24,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 08:05:00",
+        "Organic": 11,
+        "Other": 13,
+        "Plastic": 25,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 08:15:00",
+        "Organic": 11,
+        "Other": 14,
+        "Plastic": 25,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 08:25:00",
+        "Organic": 11,
+        "Other": 15,
+        "Plastic": 25,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 08:35:00",
+        "Organic": 12,
+        "Other": 15,
+        "Plastic": 25,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 08:45:00",
+        "Organic": 13,
+        "Other": 15,
+        "Plastic": 25,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 08:55:00",
+        "Organic": 13,
+        "Other": 15,
+        "Plastic": 26,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 09:05:00",
+        "Organic": 13,
+        "Other": 15,
+        "Plastic": 27,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 09:15:00",
+        "Organic": 13,
+        "Other": 16,
+        "Plastic": 27,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 09:25:00",
+        "Organic": 13,
+        "Other": 17,
+        "Plastic": 27,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 09:35:00",
+        "Organic": 14,
+        "Other": 17,
+        "Plastic": 27,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 09:45:00",
+        "Organic": 15,
+        "Other": 17,
+        "Plastic": 27,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 09:55:00",
+        "Organic": 15,
+        "Other": 18,
+        "Plastic": 27,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 10:05:00",
+        "Organic": 15,
+        "Other": 19,
+        "Plastic": 27,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 10:15:00",
+        "Organic": 16,
+        "Other": 19,
+        "Plastic": 27,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 10:25:00",
+        "Organic": 17,
+        "Other": 19,
+        "Plastic": 27,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 10:35:00",
+        "Organic": 17,
+        "Other": 20,
+        "Plastic": 27,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 10:45:00",
+        "Organic": 17,
+        "Other": 20,
+        "Plastic": 28,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 10:55:00",
+        "Organic": 18,
+        "Other": 20,
+        "Plastic": 28,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 11:05:00",
+        "Organic": 19,
+        "Other": 20,
+        "Plastic": 28,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 11:15:00",
+        "Organic": 19,
+        "Other": 21,
+        "Plastic": 28,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 11:25:00",
+        "Organic": 20,
+        "Other": 21,
+        "Plastic": 28,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 11:35:00",
+        "Organic": 20,
+        "Other": 22,
+        "Plastic": 28,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 11:45:00",
+        "Organic": 20,
+        "Other": 22,
+        "Plastic": 29,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 11:55:00",
+        "Organic": 21,
+        "Other": 22,
+        "Plastic": 29,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 12:05:00",
+        "Organic": 21,
+        "Other": 22,
+        "Plastic": 30,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 12:15:00",
+        "Organic": 22,
+        "Other": 22,
+        "Plastic": 30,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 12:25:00",
+        "Organic": 23,
+        "Other": 22,
+        "Plastic": 30,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 12:35:00",
+        "Organic": 23,
+        "Other": 22,
+        "Plastic": 31,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 12:45:00",
+        "Organic": 23,
+        "Other": 23,
+        "Plastic": 31,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 12:55:00",
+        "Organic": 24,
+        "Other": 23,
+        "Plastic": 31,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 13:05:00",
+        "Organic": 24,
+        "Other": 24,
+        "Plastic": 31,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 13:15:00",
+        "Organic": 24,
+        "Other": 25,
+        "Plastic": 31,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 13:25:00",
+        "Organic": 25,
+        "Other": 25,
+        "Plastic": 31,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 13:35:00",
+        "Organic": 26,
+        "Other": 25,
+        "Plastic": 31,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 13:45:00",
+        "Organic": 26,
+        "Other": 25,
+        "Plastic": 32,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 13:55:00",
+        "Organic": 26,
+        "Other": 25,
+        "Plastic": 33,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 14:05:00",
+        "Organic": 27,
+        "Other": 25,
+        "Plastic": 33,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 14:15:00",
+        "Organic": 27,
+        "Other": 26,
+        "Plastic": 33,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 14:25:00",
+        "Organic": 27,
+        "Other": 27,
+        "Plastic": 33,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 14:35:00",
+        "Organic": 28,
+        "Other": 27,
+        "Plastic": 33,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 14:45:00",
+        "Organic": 28,
+        "Other": 27,
+        "Plastic": 34,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 14:55:00",
+        "Organic": 29,
+        "Other": 27,
+        "Plastic": 34,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 15:05:00",
+        "Organic": 29,
+        "Other": 27,
+        "Plastic": 35,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 15:15:00",
+        "Organic": 30,
+        "Other": 27,
+        "Plastic": 35,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 15:25:00",
+        "Organic": 31,
+        "Other": 27,
+        "Plastic": 35,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 15:35:00",
+        "Organic": 31,
+        "Other": 27,
+        "Plastic": 36,
+        "prediction": "Plastic"
+      },
+      {
+        "timestamp": "2025-05-03 15:45:00",
+        "Organic": 32,
+        "Other": 27,
+        "Plastic": 36,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 15:55:00",
+        "Organic": 32,
+        "Other": 28,
+        "Plastic": 36,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 16:05:00",
+        "Organic": 33,
+        "Other": 28,
+        "Plastic": 36,
+        "prediction": "Organic"
+      },
+      {
+        "timestamp": "2025-05-03 16:15:00",
+        "Organic": 33,
+        "Other": 29,
+        "Plastic": 36,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 16:25:00",
+        "Organic": 33,
+        "Other": 30,
+        "Plastic": 36,
+        "prediction": "Other"
+      },
+      {
+        "timestamp": "2025-05-03 16:35:00",
+        "Organic": 33,
+        "Other": 31,
+        "Plastic": 36,
+        "prediction": "Other"
+      }
+    ],
+    "hourly_data": {
+      "2025-05-03 00:00": {
+        "total": 6,
+        "Organic": 1,
+        "Other": 1,
+        "Plastic": 4
+      },
+      "2025-05-03 01:00": {
+        "total": 6,
+        "Organic": 1,
+        "Other": 3,
+        "Plastic": 2
+      },
+      "2025-05-03 02:00": {
+        "total": 6,
+        "Organic": 1,
+        "Other": 2,
+        "Plastic": 3
+      },
+      "2025-05-03 03:00": {
+        "total": 6,
+        "Organic": 0,
+        "Other": 2,
+        "Plastic": 4
+      },
+      "2025-05-03 04:00": {
+        "total": 6,
+        "Organic": 2,
+        "Other": 1,
+        "Plastic": 3
+      },
+      "2025-05-03 05:00": {
+        "total": 6,
+        "Organic": 1,
+        "Other": 1,
+        "Plastic": 4
+      },
+      "2025-05-03 06:00": {
+        "total": 6,
+        "Organic": 1,
+        "Other": 2,
+        "Plastic": 3
+      },
+      "2025-05-03 07:00": {
+        "total": 6,
+        "Organic": 4,
+        "Other": 1,
+        "Plastic": 1
+      },
+      "2025-05-03 08:00": {
+        "total": 6,
+        "Organic": 2,
+        "Other": 2,
+        "Plastic": 2
+      },
+      "2025-05-03 09:00": {
+        "total": 6,
+        "Organic": 2,
+        "Other": 3,
+        "Plastic": 1
+      },
+      "2025-05-03 10:00": {
+        "total": 6,
+        "Organic": 3,
+        "Other": 2,
+        "Plastic": 1
+      },
+      "2025-05-03 11:00": {
+        "total": 6,
+        "Organic": 3,
+        "Other": 2,
+        "Plastic": 1
+      },
+      "2025-05-03 12:00": {
+        "total": 6,
+        "Organic": 3,
+        "Other": 1,
+        "Plastic": 2
+      },
+      "2025-05-03 13:00": {
+        "total": 6,
+        "Organic": 2,
+        "Other": 2,
+        "Plastic": 2
+      },
+      "2025-05-03 14:00": {
+        "total": 6,
+        "Organic": 3,
+        "Other": 2,
+        "Plastic": 1
+      },
+      "2025-05-03 15:00": {
+        "total": 6,
+        "Organic": 3,
+        "Other": 1,
+        "Plastic": 2
+      },
+      "2025-05-03 16:00": {
+        "total": 4,
+        "Organic": 1,
+        "Other": 3,
+        "Plastic": 0
+      }
+    }
+  }
