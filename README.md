@@ -5,14 +5,16 @@ A smart trash-sorting prototype built for the **Samsung Innovation Campus Hackat
 ---
 
 - See our streamlit web here: https://shijinforgesmartbin.streamlit.app/
+- See our Youtube Final Pitching & Demo here: https://youtu.be/JbN-0TZBvRU
+- See our Youtube Code Explanation here: https://youtu.be/25jmLoOJSeo
+- 
 
 ---
 
 ## 📸 Demo
 
-![Prototype](./images/smartbin1.webp)
-![Team Presentation](./images/smartbin2.webp)
-![System Flow](./images/smartbin3.webp)
+![Image 1](./images/smartbin1.webp)
+![Image 2](./images/smartbin2.webp)
 
 ---
 
